@@ -1,0 +1,14 @@
+class B{
+	private String name;
+	public static int no;
+
+	static{
+		no = 10;
+	}
+	public B(String name){
+	this.name = name;
+	}
+
+
+
+}
